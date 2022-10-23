@@ -11,6 +11,6 @@
 >> <img src="./winformsApp/documentation/images/dotnet_new_app_options.png" alt="Getting started" />
 	
 >>	6. Then type "dotnet new winforms". In this case I decided to create a Windows Forms App (or winforms)
->> <img src="./winformsApp/documentation/images/otnet_chosen_new_app.png" alt="Getting started" />
+>> <img src="./winformsApp/documentation/images/dotnet_chosen_new_app.png" alt="Getting started" />
 
 >>	7. From now just enjoy creating your new application ^^.
