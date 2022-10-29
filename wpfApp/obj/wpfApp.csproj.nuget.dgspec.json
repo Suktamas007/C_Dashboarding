@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mydocuments\\GitHub\\C_Dashboarding\\C_Dashboarding.csproj": {}
+    "D:\\mydocuments\\GitHub\\C_Dashboarding\\wpfApp\\wpfApp.csproj": {}
   },
   "projects": {
-    "D:\\mydocuments\\GitHub\\C_Dashboarding\\C_Dashboarding.csproj": {
+    "D:\\mydocuments\\GitHub\\C_Dashboarding\\wpfApp\\wpfApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mydocuments\\GitHub\\C_Dashboarding\\C_Dashboarding.csproj",
-        "projectName": "C_Dashboarding",
-        "projectPath": "D:\\mydocuments\\GitHub\\C_Dashboarding\\C_Dashboarding.csproj",
+        "projectUniqueName": "D:\\mydocuments\\GitHub\\C_Dashboarding\\wpfApp\\wpfApp.csproj",
+        "projectName": "wpfApp",
+        "projectPath": "D:\\mydocuments\\GitHub\\C_Dashboarding\\wpfApp\\wpfApp.csproj",
         "packagesPath": "C:\\Users\\suktamas\\.nuget\\packages\\",
-        "outputPath": "D:\\mydocuments\\GitHub\\C_Dashboarding\\obj\\",
+        "outputPath": "D:\\mydocuments\\GitHub\\C_Dashboarding\\wpfApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,7 +55,7 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"
             }
           },
